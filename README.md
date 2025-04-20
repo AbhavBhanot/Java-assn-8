@@ -1,5 +1,3 @@
-# Java-assn-8
-
 Java Student Management System
 ==============================
 
