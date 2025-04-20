@@ -1,6 +1,7 @@
-// Name: Eric Siqueira
-// PRN: 23070126041
-// Batch: 2023-27
+// Name: Abhav Bhanot
+// PRN: 23070126005
+// Batch: AIML A-1
+// 2023-27
 // Manages student records: add, delete, search, and display.
 
 import java.util.ArrayList;
